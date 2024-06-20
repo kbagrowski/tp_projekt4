@@ -1,0 +1,21 @@
+# ninja log v5
+2	79	7404192003756370	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-mkdir	d60a4600d23113ca
+2	79	7404192003756370	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-mkdir	d60a4600d23113ca
+79	3248	7404192035440045	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-download	26ee5ca29d891208
+79	3248	7404192035440045	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-download	26ee5ca29d891208
+3248	3323	7404192036197785	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-update	5984b91924149931
+3248	3323	7404192036197785	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-update	5984b91924149931
+3323	3394	7404192036916888	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-patch	4ef8ce5f8111ef4d
+3323	3394	7404192036916888	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-patch	4ef8ce5f8111ef4d
+3395	3467	7404192037636506	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-configure	d937db8e6c268eda
+3395	3467	7404192037636506	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-configure	d937db8e6c268eda
+3467	3540	7404192038367092	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-build	7994338da3a7450e
+3467	3540	7404192038367092	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-build	7994338da3a7450e
+3540	3615	7404192039116618	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-install	1d01ac7d35fa4605
+3540	3615	7404192039116618	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-install	1d01ac7d35fa4605
+3615	3699	7404192039946963	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-test	58174e0ab1984d06
+3615	3699	7404192039946963	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-test	58174e0ab1984d06
+3699	3805	7404192041021799	CMakeFiles/sdl2-populate-complete	637ad6fead634896
+3699	3805	7404192041021799	sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-done	637ad6fead634896
+3699	3805	7404192041021799	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/CMakeFiles/sdl2-populate-complete	637ad6fead634896
+3699	3805	7404192041021799	C:/Users/bagro/OneDrive/Pulpit/tp_projekt_4/out/build/x64-Debug/SDL2_gfx/sdl2-subbuild/sdl2-populate-prefix/src/sdl2-populate-stamp/sdl2-populate-done	637ad6fead634896
